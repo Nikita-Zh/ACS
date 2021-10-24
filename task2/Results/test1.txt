@@ -1,0 +1,11 @@
+Container contains 3 elements.
+0: Sphere with radius 900; density 7.670000; square 5089380.098815
+1: Parallelepiped with edges:  20 ,  21 ,  22 ; density  8.345000 ; square  2644.000000 
+2: Tetrahedron with edge  70 ; density  1.234300 ; square  8487.048957 
+
+The Container has been sorted by Straight Insertion sort
+
+Container contains 3 elements.
+0: Sphere with radius 900; density 7.670000; square 5089380.098815
+1: Tetrahedron with edge  70 ; density  1.234300 ; square  8487.048957 
+2: Parallelepiped with edges:  20 ,  21 ,  22 ; density  8.345000 ; square  2644.000000 

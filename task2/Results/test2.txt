@@ -1,0 +1,329 @@
+Container contains 162 elements.
+0: Tetrahedron with edge  3499 ; density  225.476756 ; square  21205499.769117 
+1: Parallelepiped with edges:  8351 ,  1148 ,  7166 ; density  142.806428 ; square  155313564.000000 
+2: Parallelepiped with edges:  7868 ,  5552 ,  3302 ; density  456.622865 ; square  175991952.000000 
+3: Sphere with radius 5013; density 203.258384; square 157897508.627740
+4: Sphere with radius 7241; density 597.637789; square 329440480.964050
+5: Tetrahedron with edge  5215 ; density  591.955280 ; square  47105243.474075 
+6: Parallelepiped with edges:  1246 ,  2902 ,  4178 ; density  873.095303 ; square  41892472.000000 
+7: Sphere with radius 8813; density 958.245414; square 488008524.844587
+8: Parallelepiped with edges:  2235 ,  6052 ,  7117 ; density  790.407700 ; square  145009598.000000 
+9: Parallelepiped with edges:  6025 ,  8750 ,  421 ; density  545.529830 ; square  117878050.000000 
+10: Tetrahedron with edge  3491 ; density  680.750560 ; square  21108643.487957 
+11: Tetrahedron with edge  1624 ; density  953.424630 ; square  4568069.230663 
+12: Parallelepiped with edges:  7729 ,  5524 ,  5685 ; density  259.203724 ; square  236076602.000000 
+13: Tetrahedron with edge  6974 ; density  15.737886 ; square  84241193.943266 
+14: Tetrahedron with edge  7607 ; density  144.549831 ; square  100227629.721593 
+15: Tetrahedron with edge  3959 ; density  43.848106 ; square  27147611.833627 
+16: Parallelepiped with edges:  9241 ,  9493 ,  1 ; density  849.491097 ; square  175487094.000000 
+17: Sphere with radius 7871; density 504.026302; square 389259923.672172
+18: Tetrahedron with edge  8356 ; density  230.034040 ; square  120936526.275469 
+19: Sphere with radius 8798; density 471.173648; square 486348727.197916
+20: Parallelepiped with edges:  7884 ,  5813 ,  7118 ; density  271.681238 ; square  286649876.000000 
+21: Tetrahedron with edge  9573 ; density  355.376510 ; square  158729169.951943 
+22: Sphere with radius 2535; density 379.596943; square 40377162.500630
+23: Tetrahedron with edge  1356 ; density  463.911649 ; square  3184784.173706 
+24: Sphere with radius 9536; density 114.457081; square 571363315.731227
+25: Parallelepiped with edges:  3533 ,  1801 ,  929 ; density  233.484857 ; square  22636438.000000 
+26: Sphere with radius 6302; density 4.639451; square 249537986.244440
+27: Parallelepiped with edges:  160 ,  5157 ,  2253 ; density  634.574197 ; square  25608642.000000 
+28: Sphere with radius 6460; density 635.941705; square 262207375.965096
+29: Tetrahedron with edge  7801 ; density  223.422079 ; square  105404992.857139 
+30: Tetrahedron with edge  4592 ; density  965.595618 ; square  36522826.999972 
+31: Parallelepiped with edges:  5568 ,  7190 ,  1762 ; density  154.844268 ; square  125027032.000000 
+32: Parallelepiped with edges:  6311 ,  4945 ,  7959 ; density  790.408773 ; square  241588798.000000 
+33: Parallelepiped with edges:  3277 ,  3149 ,  8051 ; density  463.293825 ; square  124109998.000000 
+34: Tetrahedron with edge  7350 ; density  370.137528 ; square  93569714.751890 
+35: Parallelepiped with edges:  2317 ,  5596 ,  6643 ; density  882.323522 ; square  131063982.000000 
+36: Parallelepiped with edges:  1267 ,  9402 ,  28 ; density  587.565442 ; square  24422132.000000 
+37: Parallelepiped with edges:  9913 ,  3012 ,  6953 ; density  478.338709 ; square  239450962.000000 
+38: Sphere with radius 9119; density 859.854292; square 522485568.996660
+39: Parallelepiped with edges:  1678 ,  8192 ,  3731 ; density  393.195236 ; square  101142292.000000 
+40: Parallelepiped with edges:  6320 ,  5445 ,  3016 ; density  954.415726 ; square  139791280.000000 
+41: Parallelepiped with edges:  5312 ,  4293 ,  5751 ; density  572.448809 ; square  156085542.000000 
+42: Tetrahedron with edge  2506 ; density  668.229940 ; square  10877341.425362 
+43: Parallelepiped with edges:  2043 ,  134 ,  320 ; density  770.119641 ; square  1940804.000000 
+44: Tetrahedron with edge  9848 ; density  480.113119 ; square  167979663.603736 
+45: Sphere with radius 8559; density 765.796600; square 460284045.074881
+46: Parallelepiped with edges:  9183 ,  9790 ,  8190 ; density  825.986303 ; square  490580880.000000 
+47: Parallelepiped with edges:  6115 ,  2023 ,  5146 ; density  68.933457 ; square  108497586.000000 
+48: Parallelepiped with edges:  4809 ,  1104 ,  8824 ; density  875.818250 ; square  114970896.000000 
+49: Parallelepiped with edges:  1198 ,  2449 ,  8225 ; density  551.009262 ; square  65860954.000000 
+50: Parallelepiped with edges:  9178 ,  9549 ,  5834 ; density  561.081741 ; square  393788080.000000 
+51: Sphere with radius 3722; density 478.373652; square 87042750.484986
+52: Tetrahedron with edge  6934 ; density  752.003382 ; square  83277619.437999 
+53: Parallelepiped with edges:  6902 ,  4988 ,  61 ; density  448.057322 ; square  70304932.000000 
+54: Sphere with radius 9605; density 622.279733; square 579661700.778793
+55: Sphere with radius 8899; density 444.922542; square 497579273.766412
+56: Tetrahedron with edge  9530 ; density  756.872807 ; square  157306413.189132 
+57: Tetrahedron with edge  9199 ; density  576.242471 ; square  146568912.349821 
+58: Sphere with radius 5424; density 765.811239; square 184849904.303715
+59: Parallelepiped with edges:  9090 ,  84 ,  8339 ; density  941.956516 ; square  154531092.000000 
+60: Tetrahedron with edge  7849 ; density  451.601105 ; square  106706109.423785 
+61: Sphere with radius 7479; density 762.421146; square 351452741.041811
+62: Parallelepiped with edges:  5493 ,  5723 ,  3508 ; density  569.574610 ; square  141564334.000000 
+63: Parallelepiped with edges:  833 ,  3688 ,  8668 ; density  603.787596 ; square  84520264.000000 
+64: Sphere with radius 3776; density 29.580686; square 89586761.950381
+65: Parallelepiped with edges:  776 ,  9169 ,  5847 ; density  160.677844 ; square  130527118.000000 
+66: Tetrahedron with edge  5674 ; density  306.648972 ; square  55762121.744895 
+67: Tetrahedron with edge  9904 ; density  280.006687 ; square  169895505.786598 
+68: Parallelepiped with edges:  3436 ,  4715 ,  7161 ; density  678.462972 ; square  149140102.000000 
+69: Parallelepiped with edges:  2873 ,  3678 ,  9370 ; density  133.365308 ; square  143899528.000000 
+70: Tetrahedron with edge  251 ; density  496.986295 ; square  109120.932928 
+71: Sphere with radius 9066; density 858.286822; square 516429803.581674
+72: Parallelepiped with edges:  5504 ,  4885 ,  3542 ; density  967.100725 ; square  127369756.000000 
+73: Tetrahedron with edge  2882 ; density  410.428203 ; square  14386282.371806 
+74: Tetrahedron with edge  89 ; density  743.507816 ; square  13719.574447 
+75: Tetrahedron with edge  7856 ; density  378.818269 ; square  106896522.429315 
+76: Tetrahedron with edge  5279 ; density  684.237437 ; square  48268516.509251 
+77: Parallelepiped with edges:  8592 ,  8068 ,  3356 ; density  280.424316 ; square  250462432.000000 
+78: Tetrahedron with edge  7936 ; density  805.709826 ; square  109084726.137565 
+79: Parallelepiped with edges:  6718 ,  4983 ,  4552 ; density  801.726529 ; square  173477492.000000 
+80: Parallelepiped with edges:  301 ,  1372 ,  7955 ; density  270.330955 ; square  27443374.000000 
+81: Tetrahedron with edge  6705 ; density  751.737539 ; square  77867851.457144 
+82: Tetrahedron with edge  9048 ; density  440.749188 ; square  141796597.955879 
+83: Parallelepiped with edges:  5970 ,  2451 ,  5777 ; density  270.195901 ; square  126561174.000000 
+84: Tetrahedron with edge  8462 ; density  538.984505 ; square  124024267.106528 
+85: Sphere with radius 3018; density 765.521286; square 57229287.529831
+86: Parallelepiped with edges:  7655 ,  9190 ,  918 ; density  278.906670 ; square  171626320.000000 
+87: Sphere with radius 7706; density 813.266782; square 373110849.379732
+88: Sphere with radius 942; density 457.278324; square 5575472.446920
+89: Parallelepiped with edges:  9398 ,  7061 ,  2606 ; density  974.149619 ; square  218502864.000000 
+90: Tetrahedron with edge  9085 ; density  421.724771 ; square  142958667.215744 
+91: Tetrahedron with edge  5029 ; density  238.819236 ; square  43805021.578146 
+92: Tetrahedron with edge  2136 ; density  771.204406 ; square  7902474.881330 
+93: Sphere with radius 3630; density 978.115502; square 82792904.474175
+94: Tetrahedron with edge  6330 ; density  197.715293 ; square  69401370.603397 
+95: Sphere with radius 7902; density 818.567743; square 392332168.809526
+96: Sphere with radius 1077; density 484.264477; square 7288048.850172
+97: Tetrahedron with edge  294 ; density  862.725235 ; square  149711.543603 
+98: Tetrahedron with edge  9725 ; density  41.406957 ; square  163809787.657581 
+99: Tetrahedron with edge  748 ; density  114.013628 ; square  969089.355038 
+100: Sphere with radius 5708; density 565.998628; square 204714119.254139
+101: Parallelepiped with edges:  3072 ,  5978 ,  4242 ; density  460.687428 ; square  113509032.000000 
+102: Parallelepiped with edges:  4025 ,  5778 ,  4137 ; density  200.077200 ; square  127622922.000000 
+103: Parallelepiped with edges:  6502 ,  7858 ,  9821 ; density  294.884099 ; square  384244552.000000 
+104: Sphere with radius 6329; density 28.883963; square 251680784.912045
+105: Tetrahedron with edge  6978 ; density  659.347628 ; square  84337856.234735 
+106: Parallelepiped with edges:  4685 ,  6938 ,  9341 ; density  343.178182 ; square  282149946.000000 
+107: Tetrahedron with edge  4178 ; density  52.713041 ; square  30234131.568867 
+108: Tetrahedron with edge  2309 ; density  354.475015 ; square  9234395.971588 
+109: Parallelepiped with edges:  6577 ,  9786 ,  5983 ; density  649.783886 ; square  324524702.000000 
+110: Parallelepiped with edges:  8456 ,  4134 ,  5841 ; density  460.575393 ; square  216990588.000000 
+111: Sphere with radius 2451; density 558.493796; square 37745613.697536
+112: Tetrahedron with edge  239 ; density  473.375169 ; square  98936.474179 
+113: Sphere with radius 1571; density 451.228785; square 15507158.948717
+114: Tetrahedron with edge  5141 ; density  427.350677 ; square  45777896.729999 
+115: Parallelepiped with edges:  4679 ,  1205 ,  6058 ; density  948.568594 ; square  82566934.000000 
+116: Sphere with radius 6499; density 606.400006; square 265382904.102529
+117: Tetrahedron with edge  4547 ; density  896.158350 ; square  35810512.445105 
+118: Sphere with radius 3802; density 81.021587; square 90824725.385084
+119: Tetrahedron with edge  6861 ; density  895.533099 ; square  81533383.652999 
+120: Parallelepiped with edges:  1056 ,  5934 ,  8975 ; density  159.298049 ; square  138003108.000000 
+121: Sphere with radius 7657; density 545.214097; square 368380949.161896
+122: Tetrahedron with edge  8887 ; density  72.138704 ; square  136795240.627246 
+123: Sphere with radius 9745; density 244.372830; square 596682849.775942
+124: Sphere with radius 6871; density 888.130330; square 296633205.873730
+125: Parallelepiped with edges:  1212 ,  9156 ,  5225 ; density  751.848152 ; square  130539744.000000 
+126: Sphere with radius 8837; density 190.214869; square 490670082.140708
+127: Parallelepiped with edges:  6947 ,  2458 ,  1003 ; density  466.923490 ; square  53017882.000000 
+128: Parallelepiped with edges:  8978 ,  5885 ,  3754 ; density  144.822265 ; square  217262464.000000 
+129: Tetrahedron with edge  1435 ; density  1.642732 ; square  3566682.324216 
+130: Tetrahedron with edge  4151 ; density  627.923136 ; square  29844622.787109 
+131: Tetrahedron with edge  9724 ; density  557.806142 ; square  163776101.001425 
+132: Parallelepiped with edges:  5183 ,  4412 ,  820 ; density  514.423716 ; square  61470592.000000 
+133: Sphere with radius 414; density 949.555123; square 1076912.828909
+134: Sphere with radius 4608; density 659.147523; square 133415045.662388
+135: Sphere with radius 2413; density 799.628323; square 36584279.990839
+136: Sphere with radius 3589; density 645.126266; square 80933213.570141
+137: Parallelepiped with edges:  3209 ,  4571 ,  5914 ; density  892.366880 ; square  121358518.000000 
+138: Parallelepiped with edges:  1009 ,  7972 ,  6176 ; density  130.137901 ; square  127020808.000000 
+139: Parallelepiped with edges:  44 ,  146 ,  8385 ; density  89.223263 ; square  3199148.000000 
+140: Tetrahedron with edge  218 ; density  696.799276 ; square  82313.982579 
+141: Sphere with radius 2322; density 79.336008; square 33876949.689755
+142: Tetrahedron with edge  2945 ; density  548.426296 ; square  15022119.955315 
+143: Tetrahedron with edge  828 ; density  704.778118 ; square  1187466.320856 
+144: Tetrahedron with edge  6559 ; density  393.928386 ; square  74513658.858052 
+145: Tetrahedron with edge  7047 ; density  880.683081 ; square  86014005.102489 
+146: Sphere with radius 8542; density 406.331280; square 458457416.291933
+147: Tetrahedron with edge  4806 ; density  443.400396 ; square  40006279.086732 
+148: Tetrahedron with edge  682 ; density  623.403158 ; square  805618.399820 
+149: Parallelepiped with edges:  2448 ,  5379 ,  7807 ; density  589.487293 ; square  148546362.000000 
+150: Parallelepiped with edges:  6131 ,  7742 ,  3333 ; density  90.077350 ; square  187409822.000000 
+151: Tetrahedron with edge  4631 ; density  636.842917 ; square  37145840.479302 
+152: Parallelepiped with edges:  4314 ,  6992 ,  4807 ; density  420.930333 ; square  169022860.000000 
+153: Parallelepiped with edges:  651 ,  504 ,  1473 ; density  156.437179 ; square  4058838.000000 
+154: Parallelepiped with edges:  870 ,  648 ,  5807 ; density  980.716552 ; square  18757572.000000 
+155: Tetrahedron with edge  846 ; density  244.485671 ; square  1239656.475790 
+156: Parallelepiped with edges:  3304 ,  5919 ,  4197 ; density  20.204507 ; square  116530614.000000 
+157: Tetrahedron with edge  7727 ; density  631.208611 ; square  103414741.771585 
+158: Parallelepiped with edges:  3409 ,  1786 ,  2477 ; density  976.596517 ; square  37912978.000000 
+159: Parallelepiped with edges:  242 ,  9099 ,  2293 ; density  50.509555 ; square  47241742.000000 
+160: Sphere with radius 6962; density 430.314655; square 304542498.387964
+161: Parallelepiped with edges:  5275 ,  7429 ,  5911 ; density  590.122940 ; square  228562638.000000 
+
+The Container has been sorted by Straight Insertion sort
+
+Container contains 162 elements.
+0: Sphere with radius 9745; density 244.372830; square 596682849.775942
+1: Sphere with radius 9605; density 622.279733; square 579661700.778793
+2: Sphere with radius 9536; density 114.457081; square 571363315.731227
+3: Sphere with radius 9119; density 859.854292; square 522485568.996660
+4: Sphere with radius 9066; density 858.286822; square 516429803.581674
+5: Sphere with radius 8899; density 444.922542; square 497579273.766412
+6: Sphere with radius 8837; density 190.214869; square 490670082.140708
+7: Parallelepiped with edges:  9183 ,  9790 ,  8190 ; density  825.986303 ; square  490580880.000000 
+8: Sphere with radius 8813; density 958.245414; square 488008524.844587
+9: Sphere with radius 8798; density 471.173648; square 486348727.197916
+10: Sphere with radius 8559; density 765.796600; square 460284045.074881
+11: Sphere with radius 8542; density 406.331280; square 458457416.291933
+12: Parallelepiped with edges:  9178 ,  9549 ,  5834 ; density  561.081741 ; square  393788080.000000 
+13: Sphere with radius 7902; density 818.567743; square 392332168.809526
+14: Sphere with radius 7871; density 504.026302; square 389259923.672172
+15: Parallelepiped with edges:  6502 ,  7858 ,  9821 ; density  294.884099 ; square  384244552.000000 
+16: Sphere with radius 7706; density 813.266782; square 373110849.379732
+17: Sphere with radius 7657; density 545.214097; square 368380949.161896
+18: Sphere with radius 7479; density 762.421146; square 351452741.041811
+19: Sphere with radius 7241; density 597.637789; square 329440480.964050
+20: Parallelepiped with edges:  6577 ,  9786 ,  5983 ; density  649.783886 ; square  324524702.000000 
+21: Sphere with radius 6962; density 430.314655; square 304542498.387964
+22: Sphere with radius 6871; density 888.130330; square 296633205.873730
+23: Parallelepiped with edges:  7884 ,  5813 ,  7118 ; density  271.681238 ; square  286649876.000000 
+24: Parallelepiped with edges:  4685 ,  6938 ,  9341 ; density  343.178182 ; square  282149946.000000 
+25: Sphere with radius 6499; density 606.400006; square 265382904.102529
+26: Sphere with radius 6460; density 635.941705; square 262207375.965096
+27: Sphere with radius 6329; density 28.883963; square 251680784.912045
+28: Parallelepiped with edges:  8592 ,  8068 ,  3356 ; density  280.424316 ; square  250462432.000000 
+29: Sphere with radius 6302; density 4.639451; square 249537986.244440
+30: Parallelepiped with edges:  6311 ,  4945 ,  7959 ; density  790.408773 ; square  241588798.000000 
+31: Parallelepiped with edges:  9913 ,  3012 ,  6953 ; density  478.338709 ; square  239450962.000000 
+32: Parallelepiped with edges:  7729 ,  5524 ,  5685 ; density  259.203724 ; square  236076602.000000 
+33: Parallelepiped with edges:  5275 ,  7429 ,  5911 ; density  590.122940 ; square  228562638.000000 
+34: Parallelepiped with edges:  9398 ,  7061 ,  2606 ; density  974.149619 ; square  218502864.000000 
+35: Parallelepiped with edges:  8978 ,  5885 ,  3754 ; density  144.822265 ; square  217262464.000000 
+36: Parallelepiped with edges:  8456 ,  4134 ,  5841 ; density  460.575393 ; square  216990588.000000 
+37: Sphere with radius 5708; density 565.998628; square 204714119.254139
+38: Parallelepiped with edges:  6131 ,  7742 ,  3333 ; density  90.077350 ; square  187409822.000000 
+39: Sphere with radius 5424; density 765.811239; square 184849904.303715
+40: Parallelepiped with edges:  7868 ,  5552 ,  3302 ; density  456.622865 ; square  175991952.000000 
+41: Parallelepiped with edges:  9241 ,  9493 ,  1 ; density  849.491097 ; square  175487094.000000 
+42: Parallelepiped with edges:  6718 ,  4983 ,  4552 ; density  801.726529 ; square  173477492.000000 
+43: Parallelepiped with edges:  7655 ,  9190 ,  918 ; density  278.906670 ; square  171626320.000000 
+44: Tetrahedron with edge  9904 ; density  280.006687 ; square  169895505.786598 
+45: Parallelepiped with edges:  4314 ,  6992 ,  4807 ; density  420.930333 ; square  169022860.000000 
+46: Tetrahedron with edge  9848 ; density  480.113119 ; square  167979663.603736 
+47: Tetrahedron with edge  9725 ; density  41.406957 ; square  163809787.657581 
+48: Tetrahedron with edge  9724 ; density  557.806142 ; square  163776101.001425 
+49: Tetrahedron with edge  9573 ; density  355.376510 ; square  158729169.951943 
+50: Sphere with radius 5013; density 203.258384; square 157897508.627740
+51: Tetrahedron with edge  9530 ; density  756.872807 ; square  157306413.189132 
+52: Parallelepiped with edges:  5312 ,  4293 ,  5751 ; density  572.448809 ; square  156085542.000000 
+53: Parallelepiped with edges:  8351 ,  1148 ,  7166 ; density  142.806428 ; square  155313564.000000 
+54: Parallelepiped with edges:  9090 ,  84 ,  8339 ; density  941.956516 ; square  154531092.000000 
+55: Parallelepiped with edges:  3436 ,  4715 ,  7161 ; density  678.462972 ; square  149140102.000000 
+56: Parallelepiped with edges:  2448 ,  5379 ,  7807 ; density  589.487293 ; square  148546362.000000 
+57: Tetrahedron with edge  9199 ; density  576.242471 ; square  146568912.349821 
+58: Parallelepiped with edges:  2235 ,  6052 ,  7117 ; density  790.407700 ; square  145009598.000000 
+59: Parallelepiped with edges:  2873 ,  3678 ,  9370 ; density  133.365308 ; square  143899528.000000 
+60: Tetrahedron with edge  9085 ; density  421.724771 ; square  142958667.215744 
+61: Tetrahedron with edge  9048 ; density  440.749188 ; square  141796597.955879 
+62: Parallelepiped with edges:  5493 ,  5723 ,  3508 ; density  569.574610 ; square  141564334.000000 
+63: Parallelepiped with edges:  6320 ,  5445 ,  3016 ; density  954.415726 ; square  139791280.000000 
+64: Parallelepiped with edges:  1056 ,  5934 ,  8975 ; density  159.298049 ; square  138003108.000000 
+65: Tetrahedron with edge  8887 ; density  72.138704 ; square  136795240.627246 
+66: Sphere with radius 4608; density 659.147523; square 133415045.662388
+67: Parallelepiped with edges:  2317 ,  5596 ,  6643 ; density  882.323522 ; square  131063982.000000 
+68: Parallelepiped with edges:  1212 ,  9156 ,  5225 ; density  751.848152 ; square  130539744.000000 
+69: Parallelepiped with edges:  776 ,  9169 ,  5847 ; density  160.677844 ; square  130527118.000000 
+70: Parallelepiped with edges:  4025 ,  5778 ,  4137 ; density  200.077200 ; square  127622922.000000 
+71: Parallelepiped with edges:  5504 ,  4885 ,  3542 ; density  967.100725 ; square  127369756.000000 
+72: Parallelepiped with edges:  1009 ,  7972 ,  6176 ; density  130.137901 ; square  127020808.000000 
+73: Parallelepiped with edges:  5970 ,  2451 ,  5777 ; density  270.195901 ; square  126561174.000000 
+74: Parallelepiped with edges:  5568 ,  7190 ,  1762 ; density  154.844268 ; square  125027032.000000 
+75: Parallelepiped with edges:  3277 ,  3149 ,  8051 ; density  463.293825 ; square  124109998.000000 
+76: Tetrahedron with edge  8462 ; density  538.984505 ; square  124024267.106528 
+77: Parallelepiped with edges:  3209 ,  4571 ,  5914 ; density  892.366880 ; square  121358518.000000 
+78: Tetrahedron with edge  8356 ; density  230.034040 ; square  120936526.275469 
+79: Parallelepiped with edges:  6025 ,  8750 ,  421 ; density  545.529830 ; square  117878050.000000 
+80: Parallelepiped with edges:  3304 ,  5919 ,  4197 ; density  20.204507 ; square  116530614.000000 
+81: Parallelepiped with edges:  4809 ,  1104 ,  8824 ; density  875.818250 ; square  114970896.000000 
+82: Parallelepiped with edges:  3072 ,  5978 ,  4242 ; density  460.687428 ; square  113509032.000000 
+83: Tetrahedron with edge  7936 ; density  805.709826 ; square  109084726.137565 
+84: Parallelepiped with edges:  6115 ,  2023 ,  5146 ; density  68.933457 ; square  108497586.000000 
+85: Tetrahedron with edge  7856 ; density  378.818269 ; square  106896522.429315 
+86: Tetrahedron with edge  7849 ; density  451.601105 ; square  106706109.423785 
+87: Tetrahedron with edge  7801 ; density  223.422079 ; square  105404992.857139 
+88: Tetrahedron with edge  7727 ; density  631.208611 ; square  103414741.771585 
+89: Parallelepiped with edges:  1678 ,  8192 ,  3731 ; density  393.195236 ; square  101142292.000000 
+90: Tetrahedron with edge  7607 ; density  144.549831 ; square  100227629.721593 
+91: Tetrahedron with edge  7350 ; density  370.137528 ; square  93569714.751890 
+92: Sphere with radius 3802; density 81.021587; square 90824725.385084
+93: Sphere with radius 3776; density 29.580686; square 89586761.950381
+94: Sphere with radius 3722; density 478.373652; square 87042750.484986
+95: Tetrahedron with edge  7047 ; density  880.683081 ; square  86014005.102489 
+96: Parallelepiped with edges:  833 ,  3688 ,  8668 ; density  603.787596 ; square  84520264.000000 
+97: Tetrahedron with edge  6978 ; density  659.347628 ; square  84337856.234735 
+98: Tetrahedron with edge  6974 ; density  15.737886 ; square  84241193.943266 
+99: Tetrahedron with edge  6934 ; density  752.003382 ; square  83277619.437999 
+100: Sphere with radius 3630; density 978.115502; square 82792904.474175
+101: Parallelepiped with edges:  4679 ,  1205 ,  6058 ; density  948.568594 ; square  82566934.000000 
+102: Tetrahedron with edge  6861 ; density  895.533099 ; square  81533383.652999 
+103: Sphere with radius 3589; density 645.126266; square 80933213.570141
+104: Tetrahedron with edge  6705 ; density  751.737539 ; square  77867851.457144 
+105: Tetrahedron with edge  6559 ; density  393.928386 ; square  74513658.858052 
+106: Parallelepiped with edges:  6902 ,  4988 ,  61 ; density  448.057322 ; square  70304932.000000 
+107: Tetrahedron with edge  6330 ; density  197.715293 ; square  69401370.603397 
+108: Parallelepiped with edges:  1198 ,  2449 ,  8225 ; density  551.009262 ; square  65860954.000000 
+109: Parallelepiped with edges:  5183 ,  4412 ,  820 ; density  514.423716 ; square  61470592.000000 
+110: Sphere with radius 3018; density 765.521286; square 57229287.529831
+111: Tetrahedron with edge  5674 ; density  306.648972 ; square  55762121.744895 
+112: Parallelepiped with edges:  6947 ,  2458 ,  1003 ; density  466.923490 ; square  53017882.000000 
+113: Tetrahedron with edge  5279 ; density  684.237437 ; square  48268516.509251 
+114: Parallelepiped with edges:  242 ,  9099 ,  2293 ; density  50.509555 ; square  47241742.000000 
+115: Tetrahedron with edge  5215 ; density  591.955280 ; square  47105243.474075 
+116: Tetrahedron with edge  5141 ; density  427.350677 ; square  45777896.729999 
+117: Tetrahedron with edge  5029 ; density  238.819236 ; square  43805021.578146 
+118: Parallelepiped with edges:  1246 ,  2902 ,  4178 ; density  873.095303 ; square  41892472.000000 
+119: Sphere with radius 2535; density 379.596943; square 40377162.500630
+120: Tetrahedron with edge  4806 ; density  443.400396 ; square  40006279.086732 
+121: Parallelepiped with edges:  3409 ,  1786 ,  2477 ; density  976.596517 ; square  37912978.000000 
+122: Sphere with radius 2451; density 558.493796; square 37745613.697536
+123: Tetrahedron with edge  4631 ; density  636.842917 ; square  37145840.479302 
+124: Sphere with radius 2413; density 799.628323; square 36584279.990839
+125: Tetrahedron with edge  4592 ; density  965.595618 ; square  36522826.999972 
+126: Tetrahedron with edge  4547 ; density  896.158350 ; square  35810512.445105 
+127: Sphere with radius 2322; density 79.336008; square 33876949.689755
+128: Tetrahedron with edge  4178 ; density  52.713041 ; square  30234131.568867 
+129: Tetrahedron with edge  4151 ; density  627.923136 ; square  29844622.787109 
+130: Parallelepiped with edges:  301 ,  1372 ,  7955 ; density  270.330955 ; square  27443374.000000 
+131: Tetrahedron with edge  3959 ; density  43.848106 ; square  27147611.833627 
+132: Parallelepiped with edges:  160 ,  5157 ,  2253 ; density  634.574197 ; square  25608642.000000 
+133: Parallelepiped with edges:  1267 ,  9402 ,  28 ; density  587.565442 ; square  24422132.000000 
+134: Parallelepiped with edges:  3533 ,  1801 ,  929 ; density  233.484857 ; square  22636438.000000 
+135: Tetrahedron with edge  3499 ; density  225.476756 ; square  21205499.769117 
+136: Tetrahedron with edge  3491 ; density  680.750560 ; square  21108643.487957 
+137: Parallelepiped with edges:  870 ,  648 ,  5807 ; density  980.716552 ; square  18757572.000000 
+138: Sphere with radius 1571; density 451.228785; square 15507158.948717
+139: Tetrahedron with edge  2945 ; density  548.426296 ; square  15022119.955315 
+140: Tetrahedron with edge  2882 ; density  410.428203 ; square  14386282.371806 
+141: Tetrahedron with edge  2506 ; density  668.229940 ; square  10877341.425362 
+142: Tetrahedron with edge  2309 ; density  354.475015 ; square  9234395.971588 
+143: Tetrahedron with edge  2136 ; density  771.204406 ; square  7902474.881330 
+144: Sphere with radius 1077; density 484.264477; square 7288048.850172
+145: Sphere with radius 942; density 457.278324; square 5575472.446920
+146: Tetrahedron with edge  1624 ; density  953.424630 ; square  4568069.230663 
+147: Parallelepiped with edges:  651 ,  504 ,  1473 ; density  156.437179 ; square  4058838.000000 
+148: Tetrahedron with edge  1435 ; density  1.642732 ; square  3566682.324216 
+149: Parallelepiped with edges:  44 ,  146 ,  8385 ; density  89.223263 ; square  3199148.000000 
+150: Tetrahedron with edge  1356 ; density  463.911649 ; square  3184784.173706 
+151: Parallelepiped with edges:  2043 ,  134 ,  320 ; density  770.119641 ; square  1940804.000000 
+152: Tetrahedron with edge  846 ; density  244.485671 ; square  1239656.475790 
+153: Tetrahedron with edge  828 ; density  704.778118 ; square  1187466.320856 
+154: Sphere with radius 414; density 949.555123; square 1076912.828909
+155: Tetrahedron with edge  748 ; density  114.013628 ; square  969089.355038 
+156: Tetrahedron with edge  682 ; density  623.403158 ; square  805618.399820 
+157: Tetrahedron with edge  294 ; density  862.725235 ; square  149711.543603 
+158: Tetrahedron with edge  251 ; density  496.986295 ; square  109120.932928 
+159: Tetrahedron with edge  239 ; density  473.375169 ; square  98936.474179 
+160: Tetrahedron with edge  218 ; density  696.799276 ; square  82313.982579 
+161: Tetrahedron with edge  89 ; density  743.507816 ; square  13719.574447 

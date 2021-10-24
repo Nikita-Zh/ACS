@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nikita/HSE/АВС/HW21/task2/container.h
+cstdio
+-
+shape.h
+/Users/nikita/HSE/АВС/HW21/task2/shape.h
+
+/Users/nikita/HSE/АВС/HW21/task2/main.cpp
+cstdio
+-
+chrono
+/Users/nikita/HSE/АВС/HW21/task2/chrono
+container.h
+/Users/nikita/HSE/АВС/HW21/task2/container.h
+
+/Users/nikita/HSE/АВС/HW21/task2/shape.h
+cstdio
+-
+
